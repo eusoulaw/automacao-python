@@ -1,4 +1,4 @@
-# Automatizacao python
+# Automacao python
 Projeto de automatização simples utilizando Python
 
 Neste projeto foi utilizado Pandas, Pyautogui e um arquivo .csv para fazer a importação de dados e o cadastramento dentro do sistema.
